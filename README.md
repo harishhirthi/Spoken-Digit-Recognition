@@ -15,4 +15,4 @@ Building the Deep Learning model to recognise the digits(0-9) from the human spo
 |Augmented - Spectogram|Model - 4 | 0.8658|
 
 ## Contains one file:
-Speech_detection.ipynb - Data prepartion, Data augmentation and Recognition.
+Spoken_digit_detection.ipynb - Data prepartion, Data augmentation and Recognition.
